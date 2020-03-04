@@ -14,6 +14,13 @@ we need to define a cost function and use gradient descend to find a optimal PID
 But gradient descent is easy to be trapped in local minimum, so Adam algorithm will be helpful
 
 
+## Simulation autotuning
+
+'sim_adam.py --atune'
+![2020-03-04 18-45-19屏幕截图.png](https://i.loli.net/2020/03/05/PbHkSrEJB416gox.png)
+
+
+
 ## Todo
 - clean the code and make some comments
 - implement with C
