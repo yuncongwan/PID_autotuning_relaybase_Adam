@@ -16,7 +16,8 @@ But gradient descent is easy to be trapped in local minimum, so Adam algorithm w
 
 ## Simulation autotuning
 
-'sim_adam.py --atune'
+`sim_adam.py --atune`
+
 ![2020-03-04 18-45-19屏幕截图.png](https://i.loli.net/2020/03/05/PbHkSrEJB416gox.png)
 
 
